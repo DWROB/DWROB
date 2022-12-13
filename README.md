@@ -1,13 +1,7 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo13680
-Fork on GitHub3606
 <h1 align="center">Hi 👋, I'm Dal</h1>
 <h3 align="center">A fullstack developer living in Lisbon.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwrob&label=Profile%20views&color=0e75b6&style=flat" alt="dwrob" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dwrob" alt="dwrob" /></a> </p>
 
 - 🔭 I’m currently working on [My final project for CS50x. ADO: A simple to-do list because, well, I love to-do apps but I can never find one that does everything I love. WIP](https://github.com/DWROB/project)
 
