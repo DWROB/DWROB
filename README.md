@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gen_login.2didf@simplelogin.co**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11nIRiWioh14M2Pz9ozqlFHNxNFVQiOl1/view?usp=share_link](https://drive.google.com/file/d/11nIRiWioh14M2Pz9ozqlFHNxNFVQiOl1/view?usp=share_link)
+- 📄 [Have a look at my CV](https://drive.google.com/file/d/1BXmL588x2vFwBj5FEXgauIdsbMfo1IcQ/view?usp=sharing)
 
 - ⚡ Fun fact **Lions mate approx 50 times a day during mating season**
 
