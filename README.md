@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwrob&label=Profile%20views&color=0e75b6&style=flat" alt="dwrob" /> </p>
 
-- 🔭 I’m currently working on [My final project for CS50x. ADO: A simple to-do list because, well, I love to-do apps but I can never find one that does everything I love. WIP](https://github.com/DWROB/project)
+- 🔭 I’m currently working on debugging TapeMix.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** && **node.js** with Academind
 
 - 👨‍💻 All of my projects are available at [https://github.com/DWROB/](https://github.com/DWROB/)
 
 - 📫 How to reach me **gen_login.2didf@simplelogin.co**
 
-- 📄 [Have a look at my CV](https://drive.google.com/file/d/1BXmL588x2vFwBj5FEXgauIdsbMfo1IcQ/view?usp=sharing)
-
-- ⚡ Fun fact **Lions mate approx 50 times a day during mating season**
+- 📄 [Have a look at my CV](https://drive.google.com/file/d/1gZ69GQvFJUFIfx_5_2VDNn4HvSDyxmJ6/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
