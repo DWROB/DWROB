@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gen_login.2didf@simplelogin.co**
 
-- 📄 [Have a look at my CV](https://drive.google.com/file/d/1gZ69GQvFJUFIfx_5_2VDNn4HvSDyxmJ6/view?usp=share_link)
+- 📄 [Have a look at my CV](https://drive.google.com/file/d/1-Ojhm9B3X5bG6yNjQ7KVSP_EBZnMtM97/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
