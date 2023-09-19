@@ -22,7 +22,7 @@
       <tr>
         <td>Ruby</td>
         <td>Docker</td>
-        <td>PosgreSQL</td>
+        <td>PostgreSQL</td>
         <td>Js</td>
       </tr>
       <tr>
