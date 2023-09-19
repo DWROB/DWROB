@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwrob&label=Profile%20views&color=0e75b6&style=flat" alt="dwrob" /> </p>
 
-- 🔭 I’m currently working with Future Compta developing IOT Solutions.
+- 🔭 I’m currently working with IT Gest.
 
-- 🌱 I’m currently learning **React** && **node.js** with Academind
+- 🌱 I’m currently learning **node.js** with Academind
 
 - 👨‍💻 All of my projects are available at [https://github.com/DWROB/](https://github.com/DWROB/)
 
